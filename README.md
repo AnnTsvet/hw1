@@ -3,10 +3,10 @@
 # My name is Anya Tsvetkova and I'm a student of Higher School of Economics (Moscow).
 # 18 y.o.
 # My choice was undoubtebly made in favour of HSE due to several reasons:
-  1. Unique trajectory of studying 
-  2. High quality of teaching methods
-  3. Various and multiple opportunities
-  4. Good career start chances
+##### 1. Unique trajectory of studying 
+##### 2. High quality of teaching methods
+##### 3. Various and multiple opportunities
+##### 4. Good career start chances
 # I'm studying foreign languages. You can get acquainted with my timetable and get at least the image of what I'm inspired by;)
 Subject|Day of the week|Time
 :---:|:---:|:---:
@@ -26,5 +26,6 @@ British Literature|Friday|12.10-16.30
 4. Willing to participate as a volunteer in more events.
 ![Image alt](https://pp.userapi.com/c639526/v639526120/5ee5f/RCx-MvI5d9s.jpg)
 # The way we can get in touch:
+(https://www.instagram.com/an.tsvet8/)
 inst: @an.tsvet8
-# And yeh, that was my first expierence working on GitHub! Wish me good luck in coping with the following tasks)
+# And yeh, that was my first expierence working on GitHub! Wish me good luck in coping with the following tasks:)
