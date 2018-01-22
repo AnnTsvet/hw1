@@ -27,5 +27,4 @@ British Literature|Friday|12.10-16.30
 ![Image alt](https://pp.userapi.com/c639526/v639526120/5ee5f/RCx-MvI5d9s.jpg)
 # The way we can get in touch:
 (https://www.instagram.com/an.tsvet8/)
-inst: @an.tsvet8
 # And yeh, that was my first expierence working on GitHub! Wish me good luck in coping with the following tasks:)
