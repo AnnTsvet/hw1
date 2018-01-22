@@ -25,3 +25,6 @@ British Literature|Friday|12.10-16.30
 3. Will be happy to find a stable source of income as soon as possible.
 4. Willing to participate as a volunteer in more events.
 ![Image alt](https://pp.userapi.com/c639526/v639526120/5ee5f/RCx-MvI5d9s.jpg)
+# The way we can get in touch:
+inst: @an.tsvet8
+# And yeh, that was my first expierence working on GitHub! Wish me good luck in coping with the following tasks)
