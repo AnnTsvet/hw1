@@ -15,3 +15,13 @@ Language Practice|Tuesday|12.10-15.00
 Phonetics|Wednesday|9.00-10.20
 Latin|Wednesday|12.10-13.30
 Foreigners in Moscow|Wednesday|15.10-16.30
+English Grammar|Thursday|9.00-11.50
+Spanish|Thursday\Friday|12.10-13.30\10.30-11.50
+Video|Friday|9.00-10.20
+British Literature|Friday|12.10-16.30
+# Some facts apart from daily university life:
+1. People who know what they want from life and go straightly to their aim are my Muse.
+2. Half-tourist and half-dancer. From 8 to 13 was fond of balroom dancies and still adore and feel them like something that will always stay inside me. As for tourism, from 12 up to now I find my soul soothed in nature hugs and take every breath only thanks to the atmosphere of the fire burning, thoughts flying away, cosy talks occuring and our dreams coming true!
+3. Will be happy to find a stable source of income as soon as possible.
+4. Willing to participate as a volunteer in more events.
+![Image alt](https://pp.userapi.com/c639526/v639526120/5ee5f/RCx-MvI5d9s.jpg)
